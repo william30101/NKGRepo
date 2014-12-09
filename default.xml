@@ -1,4 +1,8 @@
 <manifest>
 <remote name="NKG" fetch="https://github.com/william30101/"/>
 <project name="IMSDroid" remote="NKG" path="IMSdroid" revision="UI"/>
+<project name="ArcMenuLibrary" remote="NKG" path="IMSdroid" revision="master"/>
+<project name="ngn-stack" remote="NKG" path="IMSdroid" revision="master"/>
+<project name="ColorPicker" remote="NKG" path="IMSdroid" revision="master"/>
+
 </manifest>
