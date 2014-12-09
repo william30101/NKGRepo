@@ -1,5 +1,4 @@
 <manifest>
 <remote name="NKG" fetch="https://github.com/william30101/"/>
-<default revision="refs/heads/UI" remote="IMSDroid" sync-j="4"/>
-<project name="IMSDroid" remote="IMSDroid" path="william30101/IMSdroid"/>
+<project name="IMSDroid" remote="NKG" path="IMSdroid"/>
 </manifest>
