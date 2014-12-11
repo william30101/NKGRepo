@@ -1,5 +1,5 @@
 <manifest>
-<remote name="NKG" fetch="git@github.com:william30101/"/>
+<remote name="NKG" fetch="."/>
 <project name="IMSDroid" remote="NKG" path="IMSdroid" revision="UI"/>
 <project name="ArcMenuLibrary" remote="NKG" path="ArcMenuLibrary" revision="master"/>
 <project name="ngn-stack" remote="NKG" path="ngn-stack" revision="master"/>
